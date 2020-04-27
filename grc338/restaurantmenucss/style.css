@@ -1,0 +1,36 @@
+/*CSS DOCUMENT*/
+body{background-color: rgb(220, 220, 220);
+}
+
+
+h1 {color: rgb(0, 11, 79);
+    font-size: 6 em;
+    text-align:center; 
+    font-family: 'Trirong', serif;
+}
+
+h2 {color: rgb(32, 54, 143);
+    font-size: 4 em;
+    text-align:center;
+    font-family: 'Manrope', sans-serif;
+}
+
+h3 {color: rgb(130, 156, 208);
+    font-size: 3 em;
+    font-family: 'Manrope', sans-serif;
+    text-align:center; 
+    background-color: rgb(255, 255, 255)
+}
+
+h4 {color: rgb(50, 50, 50);
+    font-size: 1.5 em;
+    font-family: 'Manrope', sans-serif; 
+}
+
+p {color: rgb(109, 109, 109);
+    font-family: sans-serif;
+    font-family: 'Manrope', sans-serif;
+}
+
+li {list-style-type: none;
+}
