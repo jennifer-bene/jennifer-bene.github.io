@@ -1,0 +1,58 @@
+/*CSS DOCUMENT*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+
+img {
+width: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+h1 {
+font-family: 'Lobster', cursive;
+color: rgb(255, 0, 0);
+font-size: 6 em;
+text-align:center; 
+}
+
+h2 {
+font-family: 'Roboto Condensed', sans-serif;
+color: rgb(0, 100, 0);
+font-size: 4 em;
+text-align:center;
+}
+
+p {
+font-family: 'Roboto Condensed', sans-serif;
+max-width: 40em;
+margin: auto;
+}
+
+h3 {
+color: rgb(0, 100, 0);
+font-family: 'Roboto Condensed', sans-serif;
+text-align:center;
+}
+
+div.ingredients {
+font-family: 'Roboto Condensed', sans-serif;
+max-width: 40em;
+margin: auto;
+}
+
+div.directions {
+font-family: 'Roboto Condensed', sans-serif;
+max-width: 40em;
+margin: auto;
+}
+
+h6 {
+font-family: 'Roboto Condensed', sans-serif;
+text-align:center;
+}
+
+
